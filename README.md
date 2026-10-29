@@ -1,6 +1,11 @@
 <p align="center"><b>Polski</b> | <a href="README.en.md">English</a></p>
 
+<p align="center"><img src="docs/demo.gif" alt="Księgowy w WhatsApp - demo" width="700"/></p>
+<p align="center"><sub>Pokaz zrzutów ekranu (makieta/zrzuty z działającego systemu, kod prywatny)</sub></p>
+
+<!-- Poprzednie hero (backup, statyczne):
 <p align="center"><img src="assets/hero.png" alt="Księgowy w WhatsApp" width="700"/></p>
+-->
 
 <h1 align="center">Księgowy w WhatsApp</h1>
 
